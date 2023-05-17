@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<catalog>
+<categ>
+    <name>lamp</name>
+    <realname>светильники</realname>
+    <photo>../resources/pictures/лампа1.jfif</photo>
+</categ>
+<categ>
+    <name>w_machine</name>
+    <realname>стиральные машины</realname>
+    <photo>../resources/pictures/148.jpg</photo>
+</categ>
+<categ>
+    <name>microwave</name>
+    <realname>микроволновки</realname>
+    <photo>../resources/pictures/335317388_mikrovolnovaya-pech-svch.webp</photo>
+</categ>
+<categ>
+    <name>fan</name>
+    <realname>вентиляторы</realname>
+    <photo>../resources/pictures/v.webp</photo>
+</categ>
+<categ>
+    <name>microwave</name>
+    <realname>холодильники</realname>
+    <photo>../resources/pictures/4d67df86d93f6e310961594cddc00c86.png</photo>
+</categ>
+<categ>
+    <name>microwave</name>
+    <realname>кондиционеры</realname>
+    <photo>../resources/pictures/46090.jpg</photo>
+</categ>
+<categ>
+    <name>microwave</name>
+    <realname>мультиварки</realname>
+    <photo>../resources/pictures/7140fc7e6997648220ce5775cb750f32.jpg.webp</photo>
+</categ>
+<categ>
+    <name>microwave</name>
+    <realname>роботы-пылесосы</realname>
+    <photo>../resources/pictures/images.jfif</photo>
+</categ>
+</catalog>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<catalog>
+<product>
+   <productname>Люстра Элетех Форма 231 НСБ 01-3х60-141 / 1005404242 (черный)</productname>
+    <photo>../resources/pictures/лампа1.jfif</photo>
+    <description>кол-во ламп: 3<br/> материал: металл <br/> размеры: 50 х 50 х 50</description>
+    <price>120.33</price>
+    <articul>3111210</articul>
+</product>
+<product>
+    <productname>Потолочный светильник Rivoli Dietlinde 6049-105 / Б0052396</productname>
+    <photo>../resources/pictures/лампа2.webp</photo>
+    <description>кол-во ламп: 1<br/> материал: металл, акрил, силикон <br/> размеры: 50 х 50 х 10</description>
+    <price>90.33</price>
+    <articul>3114210</articul>
+</product>
+<product>
+    <productname>Потолочный светильник Vitaluce V4168-1/1S</productname>
+    <photo>../resources/pictures/Без названия.jfif</photo>
+   <description>кол-во ламп: 3<br/> материал: металл <br/> размеры: 80 х 20 х 20</description>
+    <price>54.33</price>
+    <articul>3117210</articul>
+</product>
+
+
+
+</catalog>

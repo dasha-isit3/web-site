@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<catalog>
+<product>
+    <productname>Стиральная машина Indesit IWUB 41051 BY</productname>
+    <photo>../resources/pictures/стир1.webp</photo>
+    <description>производство indezit <br/> Количество программ	16 <br/> Максимальная загрузка	4 кг </description>
+    <price>689.00</price>
+    <articul>71222222</articul>
+</product>
+
+<product>
+    <productname>Стиральная машина LG F2J3NS0W</productname>
+    <photo>../resources/pictures/стир2.webp</photo>
+    <description>производство LG <br/> Количество программ	10 <br/> Максимальная загрузка	5 кг </description>
+    <price>700.00</price>
+    <articul>71222233</articul>
+</product>
+
+<product>
+    <productname>Стиральная машина Beko WRE65P2BAA</productname>
+    <photo>../resources/pictures/стир3.webp</photo>
+    <description>производство Beko <br/> Количество программ	10 <br/> Максимальная загрузка	5 кг </description>
+    <price>720.00</price>
+    <articul>71222244</articul>
+</product>
+
+</catalog>

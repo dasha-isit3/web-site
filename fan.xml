@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<catalog>
+<product>
+    <productname>Вентилятор Hyundai H-SF16-F1601</productname>
+    <photo>../resources/pictures/Без названия (1).jfif</photo>
+    <description>Мощность	40 Вт<br/>Управление	механическое<br/>Питание	сеть</description>
+    <price>89.25</price>
+    <articul>1181212</articul>
+</product>
+<product>
+    <productname>Вентилятор Scarlett SC-SF111B27 (серый)</productname>
+    <photo>../resources/pictures/Без названия (2).jfif</photo>
+    <description>Мощность	60 Вт<br/>Управление	механическое<br/>Питание	сеть</description>
+    <price>90.60</price>
+    <articul>1181213</articul>
+</product>
+<product>
+    <productname>Вентилятор Timberk T-SF1603RC</productname>
+    <photo>../resources/pictures/Без названия (3).jfif</photo>
+    <description>Мощность	80 Вт<br/>Управление	механическое<br/>Питание	сеть</description>
+    <price>150.20</price>
+    <articul>1181214</articul>
+</product>
+
+
+
+</catalog>

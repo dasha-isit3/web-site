@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Slide Navbar</title>
+<link rel='stylesheet' type='text/css' media='screen' href='../css/registration.css'>
+</head>
+<body>
+	<div class="main" id = "main">  	
+		<input type="checkbox" id="chk" aria-hidden="true">
+
+			<div class="signup">
+				<form>
+					<label for="chk" aria-hidden="true">Регистрация</label>
+					<input type="text" name="txt" placeholder="User name" required="">
+					<input type="email" name="email" placeholder="Email" required="">
+					<input type="password" name="pswd" placeholder="Password" required="">
+					<button id = "sign_up">Зарегистрироваться</button>
+				</form>
+			</div>
+
+			<div class="login">
+				<form>
+					<label for="chk" aria-hidden="true">Вход</label>
+					<input type="email" name="email" placeholder="Email" required="">
+					<input type="password" name="pswd" placeholder="Password" required="">
+					<button id = "login" >Войти</button>
+				</form>
+			</div>
+	</div>
+</body>
+<script>
+    let sign_up = document.getElementById("sign_up")
+ let login = document.getElementById("login")
+ login.addEventListener("click", (event) => {
+    document.getElementById("main").innerHTML = ''
+     document.getElementById("main").innerHTML = '<div class = "end">Вы вошли в аккаунт</div>'}
+ )
+//  login.addEventListener("click", func_login)
+ sign_up.addEventListener("click", (event) => {
+    document.getElementById("main").innerHTML = ''
+     document.getElementById("main").innerHTML = '<div class = "end">Вы зарегистрированы</div>'}
+ )
+</script>
+</html>

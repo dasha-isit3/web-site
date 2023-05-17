@@ -1,0 +1,11 @@
+$o:orange;
+@mixin radius{
+    border-radius: 5px;
+}
+@mixin cursor{
+    cursor: pointer;
+}
+@mixin column{
+    display: flex;
+      flex-direction: column;
+}

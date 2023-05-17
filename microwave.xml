@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<catalog>
+<product>
+    <productname>Микроволновая печь Horizont 20MW700-1378AAW</productname>
+    <photo>../resources/pictures/микр1.webp</photo>
+    <description>Объем	20 л<br/>Мощность микроволн	700 Вт<br/>Автоматические программы приготовления	нет<br/>Управление	механическое</description>
+    <price>420.00</price>
+    <articul>2230601100</articul>
+</product>
+
+<product>
+    <productname>Микроволновая печь Hyundai HYM-M2044 (белый)</productname>
+    <photo>../resources/pictures/микр2.webp</photo>
+    <description>Объем	20 л<br/>Мощность микроволн	1000 Вт<br/>Автоматические программы приготовления	есть<br/>Управление	механическое</description>
+    <price>210.00</price>
+    <articul>2216501100</articul>
+</product>
+
+<product>
+    <productname>Микроволновая печь LG MS2042DARB</productname>
+    <photo>../resources/pictures/микр3.webp</photo>
+    <description>Объем	20 л<br/>Мощность микроволн	1000 Вт<br/>Автоматические программы приготовления	есть<br/>Управление	сенсорное</description>
+    <price>320.00</price>
+    <articul>2230501100</articul>
+</product>
+
+</catalog>
